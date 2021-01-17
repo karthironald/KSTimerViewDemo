@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KSTimerView",
+        "repositoryURL": "https://github.com/karthironald/KSTimerView",
+        "state": {
+          "branch": "main",
+          "revision": "ff83123b72833bb4944f3fdcbd8aef9ab23c9e13",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
