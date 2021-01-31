@@ -11,7 +11,7 @@
 		770898EE25B418F700E79DF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 770898ED25B418F700E79DF7 /* ContentView.swift */; };
 		770898F025B418F900E79DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 770898EF25B418F900E79DF7 /* Assets.xcassets */; };
 		770898F325B418F900E79DF7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 770898F225B418F900E79DF7 /* Preview Assets.xcassets */; };
-		77533FA025B41E2B00E2FE0E /* KSTimerView in Frameworks */ = {isa = PBXBuildFile; productRef = 77533F9F25B41E2B00E2FE0E /* KSTimerView */; };
+		7764A6EE25C694590072A239 /* KSTimerView in Frameworks */ = {isa = PBXBuildFile; productRef = 7764A6ED25C694590072A239 /* KSTimerView */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +28,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77533FA025B41E2B00E2FE0E /* KSTimerView in Frameworks */,
+				7764A6EE25C694590072A239 /* KSTimerView in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,7 +88,7 @@
 			);
 			name = KSTimerViewDemo;
 			packageProductDependencies = (
-				77533F9F25B41E2B00E2FE0E /* KSTimerView */,
+				7764A6ED25C694590072A239 /* KSTimerView */,
 			);
 			productName = KSTimerViewDemo;
 			productReference = 770898E825B418F700E79DF7 /* KSTimerViewDemo.app */;
@@ -118,7 +118,7 @@
 			);
 			mainGroup = 770898DF25B418F700E79DF7;
 			packageReferences = (
-				77533F9E25B41E2B00E2FE0E /* XCRemoteSwiftPackageReference "KSTimerView" */,
+				7764A6EC25C694590072A239 /* XCRemoteSwiftPackageReference "KSTimerView" */,
 			);
 			productRefGroup = 770898E925B418F700E79DF7 /* Products */;
 			projectDirPath = "";
@@ -338,9 +338,9 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		77533F9E25B41E2B00E2FE0E /* XCRemoteSwiftPackageReference "KSTimerView" */ = {
+		7764A6EC25C694590072A239 /* XCRemoteSwiftPackageReference "KSTimerView" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/karthironald/KSTimerView";
+			repositoryURL = "https://github.com/karthironald/KSTimerView.git";
 			requirement = {
 				branch = main;
 				kind = branch;
@@ -349,9 +349,9 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		77533F9F25B41E2B00E2FE0E /* KSTimerView */ = {
+		7764A6ED25C694590072A239 /* KSTimerView */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 77533F9E25B41E2B00E2FE0E /* XCRemoteSwiftPackageReference "KSTimerView" */;
+			package = 7764A6EC25C694590072A239 /* XCRemoteSwiftPackageReference "KSTimerView" */;
 			productName = KSTimerView;
 		};
 /* End XCSwiftPackageProductDependency section */

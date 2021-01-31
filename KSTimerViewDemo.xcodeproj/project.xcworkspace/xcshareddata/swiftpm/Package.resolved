@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "KSTimerView",
-        "repositoryURL": "https://github.com/karthironald/KSTimerView",
+        "repositoryURL": "https://github.com/karthironald/KSTimerView.git",
         "state": {
           "branch": "main",
-          "revision": "ff83123b72833bb4944f3fdcbd8aef9ab23c9e13",
+          "revision": "b657bc2339416068b2ec795266198f192b54b6ae",
           "version": null
         }
       }
